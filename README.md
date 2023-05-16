@@ -39,7 +39,7 @@ Importante saber:
 - Una vez que su código esté listo, suba el código a un repositorio público propio y envíenos el enlace a dicho repositorio para que lo revisaremos.
 
 > Se pueden utilizar herramientas como [meteor create my-app](https://react-tutorial.meteor.com/simple-todos) y similares para inicializar el proyecto.
-> <br/> > <br/>
+<br/><br/>
 
 ## Prueba técnica
 
@@ -61,6 +61,7 @@ Necesitará construir las siguientes componentes con React:
 <br/>
 
 - Un componente creación de medicos.
+<br/>
 
   > Estructura del usuario:
   >
@@ -84,6 +85,7 @@ Necesitará construir las siguientes componentes con React:
 <br/>
 
 - Un componente lista de médicos.
+<br/>
 
   > Funcionalidad:
   >
